@@ -1,2 +1,2 @@
 # Linkdin_post_app
-A powerful and user-friendly Facebook Post Creator built using Streamlit. This app allows you to compose, preview, and publish posts directly to your Facebook Page, including support for scheduled posts and image uploads via the Facebook Graph API.
+A modern, secure, and visually sleek Streamlit web app that allows users to compose, preview, and publish posts directly to their LinkedIn profiles via the LinkedIn API. Supports OAuth login, optional image uploads, scheduling UI, and live post previews.
